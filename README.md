@@ -22,8 +22,8 @@ A smart and secure Telegram bot that automatically verifies new members who join
 ### Step 1: Clone this repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/MohitGu2006/Lords-Mobile-verify-user.git
+cd Lords-Mobile-verify-user
 ```
 
 ### Step 2: Install dependencies
