@@ -3,11 +3,11 @@ from pyrogram import Client, filters
 from pyrogram.types import Message, ChatPermissions, InlineKeyboardMarkup, InlineKeyboardButton
 from pyrogram.errors import UserNotParticipant, PeerIdInvalid
 
-API_ID = 29585470
-API_HASH = "c9c5067a8ca826bc41dfd94ea578fe28"
-BOT_TOKEN = "7897128796:AAHYml5NT_yV2quFC5jQ6ltd3FeJx0TQ0qk"
-GROUP_ID = -1002875359426
-ADMIN_ID = 2095987863
+API_ID = your_api_id
+API_HASH = "your_api_hash"
+BOT_TOKEN = "your_bot_token"
+GROUP_ID = -100xxxxxxxxxx
+ADMIN_ID = 123456789
 
 WAITING = ChatPermissions(can_send_messages=False)
 VERIFIED = ChatPermissions(can_send_messages=True)
